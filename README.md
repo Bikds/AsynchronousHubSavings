@@ -10,5 +10,5 @@ hub_config.h - Definition of the constants/values that are used in hub_config.c.
 
 Instructions to run the code.
 
-1. Compile the C code (gcc -o <executable name> hub_config.c)
-2. Run the executable (./<executable name>)
+1. Compile the C code (gcc -o \<executable name\> hub_config.c)
+2. Run the executable (./\<executable name\>)
